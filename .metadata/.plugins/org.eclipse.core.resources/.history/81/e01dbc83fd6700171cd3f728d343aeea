@@ -1,0 +1,13 @@
+package service;
+
+@Componet
+public class Faturamento {
+	
+	private static final Logger LOG = LoggerFactory.getLogger(ProductCompositeIntegration.class);
+
+    @Autowired
+    Util util;
+
+    private RestTemplate restTemplate = new RestTemplate();
+
+}

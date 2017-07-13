@@ -1,0 +1,17 @@
+package service;
+
+public class FaturamentoService {
+
+	private static final Logger LOG = LoggerFactory.getLogger(ProductCompositeService.class);
+
+    @Autowired
+    ProductCompositeIntegration integration;
+
+    @Autowired
+    Util util;
+
+    @RequestMapping("/")
+    public String faturarPedido() {
+        return "{\"timestamp\":\"" + new Date() + "\",\"content\":\"Hello from ProductAPi\"}";
+    }
+}

@@ -1,0 +1,5 @@
+package com.monografia.servicoemitirnf.model;
+
+public class NotaFiscal {
+
+}

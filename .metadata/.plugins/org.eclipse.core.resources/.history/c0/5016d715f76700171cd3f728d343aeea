@@ -1,0 +1,17 @@
+package com.monografia.servicoemitirnf.model;
+
+public class NotaFiscal {
+	private Long id;
+	private String numeroNotaFiscal;
+	private String xml;
+	
+	
+	public NotaFiscal(){
+		
+	}
+	
+	public NotaFiscal() {
+		
+	}
+
+}

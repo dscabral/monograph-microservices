@@ -1,0 +1,38 @@
+package service;
+
+import org.apache.log4j.Logger;
+
+public class FaturamentoService {
+
+	private static final Logger LOG = LoggerFactory.getLogger(FaturamentoService.class);
+
+    @Autowired
+    Faturamento integration;
+
+    @Autowired
+    Util util;
+
+    @RequestMapping("/")
+    public String faturarPedido() {
+        return "{\"timestamp\":\"" + new Date() + "\",\"content\":\"Hello from EmitirNFSaidaAPi\"}";
+    }
+    
+    @RequestMapping("/faturarpedido/{pedidoId}")
+    public ResponseEntity<NotaFiscal> faturarPedido(@PathVariable int pedidoId) {
+
+        // 1. First get mandatory product information
+    	try{
+    		ResponseEntity<NotaFiscal> notaFiscalResult = integration.emitirNFSaida(pedidoId);
+
+            if (!productResult.getStatusCode().is2xxSuccessful()) {
+                // We can't proceed, return whatever fault we got from the getProduct call
+                return util.createResponse(null, notaFiscalResult.getStatusCode());
+            }
+    	} catch (Throwable t) {
+    		LOG.error("emitirNFSaida erro", t);
+    		throw t;
+    	}
+
+        return util.createOkResponse(notaFiscalResult);
+    }
+}

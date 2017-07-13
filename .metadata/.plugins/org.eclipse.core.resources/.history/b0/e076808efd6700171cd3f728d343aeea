@@ -1,0 +1,31 @@
+package service;
+
+import java.net.URI;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.client.RestTemplate;
+
+import com.monografia.servicoemitirnf.model.NotaFiscal;
+
+@Componet
+public class Faturamento {
+	
+	private static final Logger LOG = LoggerFactory.getLogger(ProductCompositeIntegration.class);
+
+    @Autowired
+    Util util;
+
+    private RestTemplate restTemplate = new RestTemplate();
+    
+    // Emissão NotaFiscal //
+    
+    public ResponseEntity<NotaFiscal> emitirNFSaida(int pedidoId) {
+    	
+    	URI uri = util.getServiceUrl("notaFiscal", "http://localhost:8081/notafiscal");
+    	
+    }
+
+}
