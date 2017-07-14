@@ -5,6 +5,6 @@ eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
     metadataMap:
-      instanceId: ${vcap.application.instance_id:${spring.application.name}:${spring.application.instance_id:${random.value}}}
+      instanceId: ${vcap.application.instance_id:${spring.application.name}:${spring.application.instance_id:${random.int}}}
   client:
     registryFetchIntervalSeconds: 5
