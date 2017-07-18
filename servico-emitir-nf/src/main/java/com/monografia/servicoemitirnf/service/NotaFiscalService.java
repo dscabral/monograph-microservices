@@ -8,7 +8,7 @@ import com.monografia.servicoemitirnf.model.NotaFiscal;
 
 @RestController
 public class NotaFiscalService {
-	
+
 	@RequestMapping("/emitirnfsaida/{pedidoId}")
 	public NotaFiscal emitirNFSaida(@PathVariable int pedidoId) {
 		return new NotaFiscal(pedidoId, "10", "teste de xml");

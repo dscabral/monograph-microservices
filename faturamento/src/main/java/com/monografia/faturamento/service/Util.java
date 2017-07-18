@@ -11,6 +11,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+
 @Component
 public class Util {
 	private static final Logger LOG = LoggerFactory.getLogger(Util.class);
@@ -33,7 +35,7 @@ public class Util {
 
         return uri;
     }
-
+    
     public <T> ResponseEntity<T> createOkResponse(T body) {
         return createResponse(body, HttpStatus.OK);
     }

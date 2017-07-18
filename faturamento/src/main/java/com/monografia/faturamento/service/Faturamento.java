@@ -6,6 +6,7 @@ import java.net.URI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
@@ -13,8 +14,7 @@ import org.springframework.web.client.RestTemplate;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectReader;
 import com.monografia.servicoemitirnf.model.NotaFiscal;
-
-
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 @Component
 public class Faturamento {
@@ -27,7 +27,7 @@ public class Faturamento {
     private RestTemplate restTemplate = new RestTemplate();
     
     // Emissão NotaFiscal //
-    
+    @HystrixCommand(fallbackMethod = "emitirNFSaidaFallBack")
     public ResponseEntity<NotaFiscal> emitirNFSaida(int pedidoId) {
     	
     	URI uri = util.getServiceUrl("notafiscal", "http://localhost:8081/notafiscal");
@@ -45,8 +45,12 @@ public class Faturamento {
     	
     }
     
+    public ResponseEntity<NotaFiscal> emitirNFSaidaFallBack(int pedidoId) {
+    	return util.createResponse(null, HttpStatus.BAD_REQUEST);
+    }
+    
     private ObjectReader notaFiscalReader = null;
-    private ObjectReader getProductReader() {
+    private ObjectReader getNotaFiscalReader() {
 
         if (notaFiscalReader != null) return notaFiscalReader;
 
@@ -56,10 +60,9 @@ public class Faturamento {
     
     public NotaFiscal response2Product(ResponseEntity<String> response) {
         try {
-            return getProductReader().readValue(response.getBody());	
+            return getNotaFiscalReader().readValue(response.getBody());	
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
-
 }
