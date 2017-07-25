@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.springframework.ide.eclipse.boot.launch">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/servico-emitir-nf/src/main/java/com/monografia/servicoemitirnf/ServicoEmitirNfApplication.java"/>
+<listEntry value="/microsservico-emitir-nf/src/main/java/com/monografia/servicoemitirnf/ServicoEmitirNfApplication.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.monografia.servicoemitirnf.ServicoEmitirNfApplication"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="servico-emitir-nf"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="microsservico-emitir-nf"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.springframework.ide.eclipse.boot.launch.BootMavenSourcePathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Djava.security.egd=file:/dev/./urandom "/>
 <stringAttribute key="process_factory_id" value="org.springframework.ide.eclipse.boot.launch.process.BootProcessFactory"/>
