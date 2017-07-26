@@ -2715,3 +2715,379 @@ org.eclipse.jface.text.BadLocationException: null
 2017-07-25 17:41:08,890 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-07-25 17:41:08,892 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-07-25 17:41:08,893 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 17:42:44,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:42:44,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:42:44,301 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:42:44,312 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:42:44,313 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 17:42:44,329 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:42:44,330 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:42:44,330 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:42:44,332 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:42:44,332 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-25 17:47:59,214 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:47:59,214 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:47:59,215 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:47:59,216 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:47:59,217 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 17:48:09,903 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:48:09,904 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:48:09,904 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:48:09,907 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:48:09,907 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 17:48:22,840 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:48:22,840 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:48:22,841 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:48:22,842 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:48:22,842 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-25 17:57:04,950 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:movimentar-estoque:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/pom.xml.
+2017-07-25 17:57:05,450 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-25 17:57:05,763 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:05,766 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:57:05,767 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:57:05,773 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:05,773 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-25 17:57:06,340 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:06,340 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:06,341 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:06,342 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:06,343 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 17:57:09,539 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:09,540 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:09,545 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:09,547 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:09,547 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-25 17:57:19,881 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:servico-emitir-nf:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/pom.xml.
+2017-07-25 17:57:20,211 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-25 17:57:20,442 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:20,442 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:57:20,449 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 17:57:20,451 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:20,451 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 17:57:20,936 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:20,936 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:20,937 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:20,938 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:20,939 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 17:57:23,368 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:23,369 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:23,376 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 17:57:23,378 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 17:57:23,378 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 18:34:38,974 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:servico-emitir-nf:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/pom.xml.
+2017-07-25 18:34:39,546 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-25 18:34:39,783 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:34:39,783 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:34:39,784 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:34:39,787 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:34:39,788 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 18:34:40,208 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:34:40,211 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:34:40,212 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:34:40,216 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:34:40,216 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 18:34:42,635 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:34:42,636 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:34:42,639 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:34:42,641 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:34:42,641 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 18:35:21,923 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:servico-emitir-nf:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/pom.xml.
+2017-07-25 18:35:22,234 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-25 18:35:22,342 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:35:22,342 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:35:22,342 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:35:22,344 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:35:22,344 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 18:35:22,755 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:35:22,760 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:35:22,762 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:35:22,764 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:35:22,764 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 18:35:25,150 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:35:25,150 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:35:25,151 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:35:25,153 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:35:25,153 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-25 18:36:28,706 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-25 18:36:29,068 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:36:29,068 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:36:29,068 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:36:29,070 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:36:29,071 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 18:36:30,759 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:36:30,760 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:36:30,760 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:36:30,764 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:36:30,765 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 18:38:01,570 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:movimentar-estoque:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/pom.xml.
+2017-07-25 18:38:01,964 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-25 18:38:02,122 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:38:02,122 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:38:02,123 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 18:38:02,131 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:38:02,131 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-25 18:38:02,507 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:38:02,507 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:38:02,510 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:38:02,511 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:38:02,511 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-25 18:38:04,803 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:38:04,804 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:38:04,809 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-25 18:38:04,812 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 18:38:04,812 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-26 09:05:51,165 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-26 09:05:54,076 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.0.RELEASE/spring-cloud-starter-hystrix-1.0.0.RELEASE.pom
+2017-07-26 09:05:54,256 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.0.RELEASE/spring-cloud-starter-hystrix-1.0.0.RELEASE.pom
+2017-07-26 09:05:54,432 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-parent/1.0.0.RELEASE/spring-cloud-starter-parent-1.0.0.RELEASE.pom
+2017-07-26 09:05:55,052 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-parent/1.0.0.RELEASE/spring-cloud-starter-parent-1.0.0.RELEASE.pom
+2017-07-26 09:05:55,227 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-parent/1.0.0.RELEASE/spring-cloud-parent-1.0.0.RELEASE.pom
+2017-07-26 09:05:55,399 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-parent/1.0.0.RELEASE/spring-cloud-parent-1.0.0.RELEASE.pom
+2017-07-26 09:05:55,596 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.2.2.RELEASE/spring-boot-starter-parent-1.2.2.RELEASE.pom
+2017-07-26 09:05:55,788 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.2.2.RELEASE/spring-boot-starter-parent-1.2.2.RELEASE.pom
+2017-07-26 09:05:56,061 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.2.2.RELEASE/spring-boot-dependencies-1.2.2.RELEASE.pom
+2017-07-26 09:05:57,349 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.2.2.RELEASE/spring-boot-dependencies-1.2.2.RELEASE.pom
+2017-07-26 09:05:57,524 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config/1.0.0.RELEASE/spring-cloud-config-1.0.0.RELEASE.pom
+2017-07-26 09:05:57,750 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config/1.0.0.RELEASE/spring-cloud-config-1.0.0.RELEASE.pom
+2017-07-26 09:05:57,956 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.0.0.RELEASE/spring-cloud-build-1.0.0.RELEASE.pom
+2017-07-26 09:05:58,348 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/1.0.0.RELEASE/spring-cloud-build-1.0.0.RELEASE.pom
+2017-07-26 09:05:58,521 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.1.5.RELEASE/spring-framework-bom-4.1.5.RELEASE.pom
+2017-07-26 09:05:58,707 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.1.5.RELEASE/spring-framework-bom-4.1.5.RELEASE.pom
+2017-07-26 09:05:58,884 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Evans-SR2/spring-data-releasetrain-Evans-SR2.pom
+2017-07-26 09:05:59,055 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Evans-SR2/spring-data-releasetrain-Evans-SR2.pom
+2017-07-26 09:05:59,614 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.5.2.RELEASE/spring-data-build-1.5.2.RELEASE.pom
+2017-07-26 09:05:59,800 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.5.2.RELEASE/spring-data-build-1.5.2.RELEASE.pom
+2017-07-26 09:05:59,982 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.1.2.RELEASE/spring-integration-bom-4.1.2.RELEASE.pom
+2017-07-26 09:06:00,200 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.1.2.RELEASE/spring-integration-bom-4.1.2.RELEASE.pom
+2017-07-26 09:06:00,372 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/3.2.6.RELEASE/spring-security-bom-3.2.6.RELEASE.pom
+2017-07-26 09:06:00,555 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/3.2.6.RELEASE/spring-security-bom-3.2.6.RELEASE.pom
+2017-07-26 09:06:00,744 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/1.0.0.RELEASE/spring-cloud-netflix-1.0.0.RELEASE.pom
+2017-07-26 09:06:00,961 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/1.0.0.RELEASE/spring-cloud-netflix-1.0.0.RELEASE.pom
+2017-07-26 09:06:01,226 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka/1.0.0.RELEASE/spring-cloud-starter-eureka-1.0.0.RELEASE.pom
+2017-07-26 09:06:01,781 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka/1.0.0.RELEASE/spring-cloud-starter-eureka-1.0.0.RELEASE.pom
+2017-07-26 09:06:02,211 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.0.RELEASE/spring-cloud-starter-hystrix-1.0.0.RELEASE.jar
+2017-07-26 09:06:02,384 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.0.RELEASE/spring-cloud-starter-hystrix-1.0.0.RELEASE.jar
+2017-07-26 09:06:02,566 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka/1.0.0.RELEASE/spring-cloud-starter-eureka-1.0.0.RELEASE.jar
+2017-07-26 09:06:02,738 [Worker-123] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka/1.0.0.RELEASE/spring-cloud-starter-eureka-1.0.0.RELEASE.jar
+2017-07-26 09:06:02,828 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:eureka:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/pom.xml.
+2017-07-26 09:06:02,923 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:zuul:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/pom.xml.
+2017-07-26 09:06:03,037 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:servico-emitir-nf:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/pom.xml.
+2017-07-26 09:06:03,110 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:movimentar-estoque:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/pom.xml.
+2017-07-26 09:06:03,337 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:03,338 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:06:03,338 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:06:03,339 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:03,339 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:06:03,650 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:03,652 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:03,654 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:03,656 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:03,656 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:06:03,999 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:04,002 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:04,003 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:04,004 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:04,005 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/src/test/resources
+2017-07-26 09:06:05,477 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:05,478 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:05,480 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:05,484 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:05,485 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-26 09:06:05,787 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:05,789 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:05,791 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:05,793 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:05,793 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-26 09:06:07,538 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:07,539 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:07,540 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:06:07,544 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:06:07,544 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:08:40,099 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:08:40,099 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:08:40,104 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:08:40,106 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:08:40,106 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:10:10,058 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:10:10,058 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:10:10,059 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:10:10,065 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:10:10,065 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:11:21,997 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:11:21,998 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:11:21,999 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:11:22,000 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:11:22,001 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:21:54,763 [Worker-128] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-26 09:21:55,120 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:21:55,130 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:21:55,131 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:21:55,132 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:21:55,132 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:21:57,512 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:21:57,513 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:21:57,513 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:21:57,522 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:21:57,522 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:25:28,411 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:zuul:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/pom.xml.
+2017-07-26 09:25:28,691 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:28,691 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:25:28,691 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:25:28,692 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:28,692 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/src/test/resources
+2017-07-26 09:25:31,108 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:31,108 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:25:31,109 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:25:31,112 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:31,112 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/src/test/resources
+2017-07-26 09:25:38,091 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-26 09:25:38,424 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:38,424 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:25:38,424 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:25:38,425 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:38,425 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:25:40,877 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:40,878 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:25:40,880 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:25:40,881 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:40,882 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:25:52,388 [Worker-112] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:eureka:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/pom.xml.
+2017-07-26 09:25:53,935 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka-server/1.0.0.RELEASE/spring-cloud-starter-eureka-server-1.0.0.RELEASE.pom
+2017-07-26 09:25:54,175 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka-server/1.0.0.RELEASE/spring-cloud-starter-eureka-server-1.0.0.RELEASE.pom
+2017-07-26 09:25:54,514 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka-server/1.0.0.RELEASE/spring-cloud-starter-eureka-server-1.0.0.RELEASE.jar
+2017-07-26 09:25:54,760 [Worker-112] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-eureka-server/1.0.0.RELEASE/spring-cloud-starter-eureka-server-1.0.0.RELEASE.jar
+2017-07-26 09:25:54,796 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:54,797 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:25:54,797 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:25:54,799 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:54,799 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:25:56,898 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:56,898 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:25:56,899 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:25:56,900 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:25:56,900 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:27:53,261 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:faturamento:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/pom.xml.
+2017-07-26 09:27:53,563 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:27:53,563 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:27:53,563 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:27:53,564 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:27:53,564 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:27:55,870 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:27:55,870 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:27:55,871 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:27:55,873 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:27:55,873 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 09:28:07,912 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:eureka:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/pom.xml.
+2017-07-26 09:28:08,124 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:28:08,124 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:28:08,124 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:28:08,125 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:28:08,125 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:28:10,230 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:28:10,231 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:28:10,231 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:28:10,233 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:28:10,233 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:29:14,107 [Worker-128] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:eureka:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/pom.xml.
+2017-07-26 09:29:14,411 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:14,411 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:29:14,412 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:29:14,412 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:14,413 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:29:24,486 [Worker-132] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:eureka:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/pom.xml.
+2017-07-26 09:29:24,690 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:24,690 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:29:24,690 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:29:24,691 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:24,691 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 09:29:56,310 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.monografia:zuul:0.0.1-SNAPSHOT @ /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/pom.xml.
+2017-07-26 09:29:56,518 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:56,518 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:29:56,518 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:29:56,520 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:56,520 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/src/test/resources
+2017-07-26 09:29:58,716 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:58,717 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:29:58,717 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:29:58,720 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:29:58,720 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/src/test/resources
+2017-07-26 09:31:11,364 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:31:11,364 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:31:11,366 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:31:11,367 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:31:11,367 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-26 09:41:59,100 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:41:59,100 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 09:41:59,101 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 09:41:59,102 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 09:41:59,102 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-26 10:27:58,529 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:27:58,529 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 10:27:58,531 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 10:27:58,538 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:27:58,538 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-26 10:28:14,217 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:28:14,217 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 10:28:14,219 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 10:28:14,220 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:28:14,220 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-26 10:28:32,512 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:28:32,513 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 10:28:32,515 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 10:28:32,517 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:28:32,517 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 10:52:57,431 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:52:57,434 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 10:52:57,436 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 10:52:57,438 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:52:57,438 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 10:53:58,146 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:53:58,146 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 10:53:58,146 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 10:53:58,148 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 10:53:58,148 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 11:03:17,815 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:03:17,822 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:03:17,825 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 11:03:17,828 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:03:17,828 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 11:04:36,338 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:04:36,339 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:04:36,339 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 11:04:36,341 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:04:36,341 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 11:05:07,136 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:05:07,136 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:05:07,137 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 11:05:07,138 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:05:07,138 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-faturamento/src/test/resources
+2017-07-26 11:07:09,312 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:07:09,313 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:07:09,314 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 11:07:09,317 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:07:09,317 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-26 11:07:27,932 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:07:27,932 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:07:27,933 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 11:07:27,934 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:07:27,934 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-26 11:14:31,309 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,311 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,314 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,316 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,317 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-emitir-nf/src/test/resources
+2017-07-26 11:14:31,338 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,339 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,340 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,341 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,341 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-movimentar-estoque/src/test/resources
+2017-07-26 11:14:31,768 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,768 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,769 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,771 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,771 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-registrador-servicos/src/test/resources
+2017-07-26 11:14:31,778 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,779 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,779 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-26 11:14:31,781 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 11:14:31,781 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gmcore/Java/Workspace-monografia/microsservico-servidor-borda/src/test/resources
