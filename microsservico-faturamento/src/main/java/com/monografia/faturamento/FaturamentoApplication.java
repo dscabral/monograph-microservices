@@ -14,3 +14,4 @@ public class FaturamentoApplication {
 		SpringApplication.run(FaturamentoApplication.class, args);
 	}
 }
+

@@ -11,8 +11,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 
-import com.monografia.servicoemitirnf.model.NotaFiscal;
-
 @Component
 public class Util {
 	private static final Logger LOG = LoggerFactory.getLogger(Util.class);
@@ -25,12 +23,11 @@ public class Util {
         try {
             ServiceInstance instance = loadBalancer.choose(serviceId);
             uri = instance.getUri();
-            LOG.debug("Resolved serviceId '{}' to URL '{}'.", serviceId, uri);
+            LOG.debug("Requisitou ao Serviço '{}' para URL '{}'.", serviceId, uri);
 
         } catch (RuntimeException e) {
-            // Eureka not available, use fallback
             uri = URI.create(fallbackUri);
-            LOG.warn("Failed to resolve serviceId '{}'. Fallback to URL '{}'.", serviceId, uri);
+            LOG.warn("Falhou ao requisitar ao Serviço '{}'. Fallback para URL '{}'.", serviceId, uri);
         }
 
         return uri;
