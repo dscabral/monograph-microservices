@@ -14,7 +14,6 @@ zuul:
   routes:
     faturamento:
       path: /faturamento/**
-#      stripPrefix: false
 
 server:
   port: 8765
