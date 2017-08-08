@@ -54,7 +54,6 @@ public class FaturarService {
     		pedidoEstoqueResult = integration.movimentarEstoque(pedidoId);
 
             if (!pedidoEstoqueResult.getStatusCode().is2xxSuccessful()) {
-                // We can't proceed, return whatever fault we got from the getProduct call
             	LOG.debug("Chamado ao movimentarEstoque falhou: {}", pedidoEstoqueResult.getStatusCode());
             }
     	} catch (Throwable t) {
