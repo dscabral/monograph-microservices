@@ -11,19 +11,24 @@ public class Faturamento {
 	private String status;
 	
 	public Faturamento(NotaFiscal notaFiscal, PedidoEstoque pedidoEstoque){
-		
 		// Dados da Nota Fiscal
-		this.idNotaFiscal 		= notaFiscal.getId();
-		this.numeroNotaFiscal 	= notaFiscal.getNumeroNotaFiscal();
-		this.xml 				= notaFiscal.getXml();
+		if(notaFiscal != null){
+			this.idNotaFiscal 		= notaFiscal.getId();
+			this.numeroNotaFiscal 	= notaFiscal.getNumeroNotaFiscal();
+			this.xml 				= notaFiscal.getXml();	
+		}else{
+			this.idNotaFiscal 		= 0;
+			this.numeroNotaFiscal 	= "S/N";
+			this.xml 				= "NAO_EMITIU_NOTA_FISCAL";
+		}
 		
+		// Status do Pedido Estoque
 		if(pedidoEstoque != null){
-			// Status do Pedido Estoque
 			this.idPedidoEstoque 	= pedidoEstoque.getId();
 			this.status 			= pedidoEstoque.getStatus();
 		}else{
-			this.idPedidoEstoque = notaFiscal.getIdPedidoEstoque();
-			this.status = "NAO_MOVIMENTOU_ESTOQUE";
+			this.idPedidoEstoque 	= notaFiscal.getIdPedidoEstoque();
+			this.status 			= "NAO_MOVIMENTOU_ESTOQUE";
 		}
 		
 	}

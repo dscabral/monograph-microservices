@@ -33,27 +33,28 @@ public class FaturarService {
     @RequestMapping("/faturarpedido/{pedidoId}")
     public ResponseEntity<Faturamento> faturarPedido(@PathVariable int pedidoId) {
 
-        // 1. Tenta emitir nota fiscal para o pedido
+        // 1. Tenta emitir nota fiscal para o pedido e retorna falha caso não consiga
 		ResponseEntity<NotaFiscal> notaFiscalResult;
     	try{
     		notaFiscalResult = integration.emitirNFSaida(pedidoId);
 
             if (!notaFiscalResult.getStatusCode().is2xxSuccessful()) {
-                // We can't proceed, return whatever fault we got from the getProduct call
+            	LOG.debug("Chamado ao emitirNotaFiscal falhou: {}", notaFiscalResult.getStatusCode());
                 return util.createResponse(null, notaFiscalResult.getStatusCode());
+                
             }
     	} catch (Throwable t) {
     		LOG.error("emitirNFSaida erro", t);
     		throw t;
     	}
     	
+    	// 2. Tenta movimentar os itens de um pedido de estoque e pula para tentar mais tarde caso não consiga
     	ResponseEntity<PedidoEstoque> pedidoEstoqueResult;
     	try{
     		pedidoEstoqueResult = integration.movimentarEstoque(pedidoId);
 
             if (!pedidoEstoqueResult.getStatusCode().is2xxSuccessful()) {
                 // We can't proceed, return whatever fault we got from the getProduct call
-//                return util.createResponse(null, pedidoEstoqueResult.getStatusCode());
             	LOG.debug("Chamado ao movimentarEstoque falhou: {}", pedidoEstoqueResult.getStatusCode());
             }
     	} catch (Throwable t) {
